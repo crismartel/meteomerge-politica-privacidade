@@ -1,0 +1,2 @@
+# meteomergepro
+Política de Privacidade
