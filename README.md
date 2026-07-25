@@ -1,9 +1,9 @@
-# 📜 Política de Privacidade - MeteoMerge Pro
+# 📜 Política de Privacidade - MeteoMerge App 
 
-Este repositório é destinado exclusivamente à hospedagem da página pública de Política de Privacidade do aplicativo **MeteoMerge Pro**, utilizando o **GitHub Pages**.
+Este repositório é destinado exclusivamente à hospedagem da página pública de Política de Privacidade do aplicativo **MeteoMerge**, utilizando o **GitHub Pages**.
 
 🔗 **Link Público Oficial:**  
-[https://crismartel.github.io/meteomergepro/](https://crismartel.github.io/meteomergepro/)
+[https://crismartel.github.io/meteomerge-politica-privacidade/](https://crismartel.github.io/meteomerge-politica-privacidade/)
 
 ---
 
