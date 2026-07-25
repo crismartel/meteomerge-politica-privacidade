@@ -8,8 +8,8 @@ Este repositório é destinado exclusivamente à hospedagem da página pública 
 ---
 
 ### 🛠️ Estrutura do Projeto
-* `index.html`: Página web contendo o texto legal da política de privacidade para aprovação na Google Play Store.
+* `index.html`: Página web contendo o texto legal da política de privacidade.
 
 ### 📅 Histórico de Atualizações
-* **Julho/2026:** Versão inicial publicada e vinculada ao Google Play Console.
+* **Julho/2026:** Versão inicial publicada.
 
