@@ -3,7 +3,7 @@
 Este repositório é destinado exclusivamente à hospedagem da página pública de Política de Privacidade do aplicativo **MeteoMerge Pro**, utilizando o **GitHub Pages**.
 
 🔗 **Link Público Oficial:**  
-[https://seu-usuario.github.io/politica-de-privacidade/](https://seu-usuario.github.io/politica-de-privacidade/)
+[https://https://crismartel.github.io/meteomergepro/](https://https://crismartel.github.io/meteomergepro/)
 
 ---
 
